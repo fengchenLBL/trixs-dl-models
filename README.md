@@ -10,7 +10,7 @@
 ```
 wget https://s3.amazonaws.com/publications.matr.io/4/deployment/data/xanes_2019.zip
 unzip xanes_2019.zip
-cp -rf matrio_folder/spectral_data ./
+cp -rf matrio_folder/spectral_data model_data ./
 ```
 ## References:
 * [https://www.nature.com/articles/s41524-020-00376-6](https://www.nature.com/articles/s41524-020-00376-6)
