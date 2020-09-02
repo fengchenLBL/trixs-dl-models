@@ -11,8 +11,14 @@
 * training data: https://data.matr.io/4/
 ```
 wget https://s3.amazonaws.com/publications.matr.io/4/deployment/data/xanes_2019.zip
+
 unzip xanes_2019.zip
-cp -rf matrio_folder/spectral_data matrio_folder/model_data ./
+
+git clone https://github.com/fengchenLBL/trixs-dl-models.git
+
+cp -rf matrio_folder/spectral_data matrio_folder/model_data ./trixs-dl-models
+
+cd trixs-dl-models
 ```
 ## References:
 * [https://www.nature.com/articles/s41524-020-00376-6](https://www.nature.com/articles/s41524-020-00376-6)
