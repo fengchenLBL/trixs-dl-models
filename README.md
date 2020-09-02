@@ -5,7 +5,7 @@
 * Current version: DL vs RF on pointwise spectra data
   * NN model without regularization : [Train_Run_DL_Models.ipynb](Train_Run_DL_Models.ipynb)
   * NN model with regularization : [Train_Run_DL_Models_V2.ipynb](Train_Run_DL_Models.ipynb)
-  * CNN model : [Train_Run_DL_Models_CNN.ipynb]
+  * CNN model : [Train_Run_DL_Models_CNN.ipynb](Train_Run_DL_Models_CNN.ipynb)
 
 ## Data:
 * training data: https://data.matr.io/4/
