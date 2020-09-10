@@ -19,6 +19,7 @@ unzip xanes_2019.zip
 git clone https://github.com/fengchenLBL/trixs-dl-models.git
 
 cp -rf matrio_folder/spectral_data matrio_folder/model_data ./trixs-dl-models
+
 cd trixs-dl-models
 ```
 ## References:
