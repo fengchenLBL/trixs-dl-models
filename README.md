@@ -7,7 +7,7 @@
   * NN model with regularization : [Train_Run_DL_Models_V2.ipynb](Train_Run_DL_Models.ipynb)
   * CNN model:
     * trained with original data : [Train_Run_DL_Models_CNN.ipynb](Train_Run_DL_Models_CNN.ipynb)
-    * data augmentation: [Train_Run_DL_Models_CNN_moreData.ipynb](Train_Run_DL_Models_CNN_moreData.ipynb)
+    * data augmentation (average pooling): [Train_Run_DL_Models_CNN_moreData.ipynb](Train_Run_DL_Models_CNN_moreData.ipynb)
 
 ## Data:
 * training data: https://data.matr.io/4/
