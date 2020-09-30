@@ -10,18 +10,18 @@
     * data augmentation (average pooling): [Train_Run_DL_Models_CNN_moreData.ipynb](Train_Run_DL_Models_CNN_moreData.ipynb)
 * All scenarios:
   
-| Status                   | Model      | Data      | Iteration/Epoch | Cross-Validation | Kernel-Size | Notebook |
-| ------------------------ | -----------| --------- | -------------   | ---------------- | ----------- | -------- |
-| :heavy_check_mark: | Random Forest    | original  | 300             | 3                | -           | [done](Train_Run_DL_Models_CNN_originalData.ipynb)|
-| :heavy_check_mark: | Neural Networks  | original  | 300             | 3                | -           | [done](Train_Run_DL_Models.ipynb)|
-| :heavy_check_mark: | CNN              | original  | 300             | 3                | 5           | [done](Train_Run_DL_Models_CNN_originalData.ipynb)|
-| :white_check_mark: | CNN              | original  | 300             | 3                | 10          | [running](Train_Run_DL_Models_CNN_originalData_10.ipynb)|
-| :white_check_mark: | CNN              | original  | 300             | 3                | 20          | [running](Train_Run_DL_Models_CNN_originalData_20.ipynb)|
-| :heavy_check_mark: | Random Forest    | augmented | 300             | 3                | -           | [done](Train_Run_DL_Models_CNN_moreData.ipyn)|
-| :heavy_check_mark: | Neural Networks  | augmented | 300             | 3                | -           | [done](Train_Run_DL_Models_moreData.ipynb)|
-| :heavy_check_mark: | CNN              | augmented | 300             | 3                | 5           | [done](Train_Run_DL_Models_CNN_moreData.ipynb)|
-| :white_check_mark: | CNN              | augmented | 300             | 3                | 10          | [running](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
-| :white_check_mark: | CNN              | augmented | 300             | 3                | 20          | [running](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
+| Status                   | Model      | Data      | Iteration/Epoch | Cross-Validation | Kernel-Size | Feature Importance | Notebook |
+| ------------------------ | -----------| --------- | -------------   | ---------------- | ----------- | --  | -------- |
+| :heavy_check_mark: | Random Forest    | original  | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_CNN_originalData.ipynb)|
+| :heavy_check_mark: | Neural Networks  | original  | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models.ipynb)|
+| :heavy_check_mark: | CNN              | original  | 300             | 3                | 5           | No | [done](Train_Run_DL_Models_CNN_originalData.ipynb)|
+| :white_check_mark: | CNN              | original  | 300             | 3                | 10          | No | [running](Train_Run_DL_Models_CNN_originalData_10.ipynb)|
+| :white_check_mark: | CNN              | original  | 300             | 3                | 20          | No | [running](Train_Run_DL_Models_CNN_originalData_20.ipynb)|
+| :heavy_check_mark: | Random Forest    | augmented | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_CNN_moreData.ipyn)|
+| :heavy_check_mark: | Neural Networks  | augmented | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_moreData.ipynb)|
+| :heavy_check_mark: | CNN              | augmented | 300             | 3                | 5           | No | [done](Train_Run_DL_Models_CNN_moreData.ipynb)|
+| :white_check_mark: | CNN              | augmented | 300             | 3                | 10          | No | [running](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
+| :white_check_mark: | CNN              | augmented | 300             | 3                | 20          | No | [running](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
 
 
 ## Data:
