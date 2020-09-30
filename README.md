@@ -15,10 +15,10 @@
   - [x] [Neural Networks with augmented data](Train_Run_DL_Models_moreData.ipynb)
   - [x] [CNN with original data, kernel size = 5](Train_Run_DL_Models_CNN_originalData.ipynb)
   - [x] [CNN with augmented data, kernel size = 5](Train_Run_DL_Models_CNN_moreData.ipynb)
-  - [x] [CNN with original data, kernel size = 10](Train_Run_DL_Models_CNN_originalData_10.ipynb)
-  - [x] [CNN with augmented data, kernel size = 10](Train_Run_DL_Models_CNN_moreData_10.ipynb)
-  - [x] [CNN with original data, kernel size = 20](Train_Run_DL_Models_CNN_originalData_20.ipynb)
-  - [x] [CNN with augmented data, kernel size = 20](Train_Run_DL_Models_CNN_moreData_20.ipynb)
+  - [ ] [CNN with original data, kernel size = 10](Train_Run_DL_Models_CNN_originalData_10.ipynb)
+  - [ ] [CNN with augmented data, kernel size = 10](Train_Run_DL_Models_CNN_moreData_10.ipynb)
+  - [ ] [CNN with original data, kernel size = 20](Train_Run_DL_Models_CNN_originalData_20.ipynb)
+  - [ ] [CNN with augmented data, kernel size = 20](Train_Run_DL_Models_CNN_moreData_20.ipynb)
 
 ## Data:
 * training data: https://data.matr.io/4/
