@@ -9,16 +9,20 @@
     * trained with original data : [Train_Run_DL_Models_CNN_originalData.ipynb](Train_Run_DL_Models_CNN_originalData.ipynb)
     * data augmentation (average pooling): [Train_Run_DL_Models_CNN_moreData.ipynb](Train_Run_DL_Models_CNN_moreData.ipynb)
 * All scenarios:
-  - [x] [Random Forest with original data](Train_Run_DL_Models_CNN_originalData.ipynb)
-  - [x] [Random Forest with augmented data](Train_Run_DL_Models_CNN_moreData.ipynb)
-  - [x] [Neural Networks with original data](Train_Run_DL_Models.ipynb)
-  - [x] [Neural Networks with augmented data](Train_Run_DL_Models_moreData.ipynb)
-  - [x] [CNN with original data, kernel size = 5](Train_Run_DL_Models_CNN_originalData.ipynb)
-  - [x] [CNN with augmented data, kernel size = 5](Train_Run_DL_Models_CNN_moreData.ipynb)
-  - [ ] [CNN with original data, kernel size = 10](Train_Run_DL_Models_CNN_originalData_10.ipynb)
-  - [ ] [CNN with augmented data, kernel size = 10](Train_Run_DL_Models_CNN_moreData_10.ipynb)
-  - [ ] [CNN with original data, kernel size = 20](Train_Run_DL_Models_CNN_originalData_20.ipynb)
-  - [ ] [CNN with augmented data, kernel size = 20](Train_Run_DL_Models_CNN_moreData_20.ipynb)
+  
+| Status                   | Model      | Data      | Iteration/Epoch | Cross-Validation | Kernel-Size | Notebook |
+| ------------------------ | -----------| --------- | -------------   | ---------------- | ----------- | -------- |
+| :heavy_check_mark: | Random Forest    | original  | 300             | 3                | -           | [done](Train_Run_DL_Models_CNN_originalData.ipynb)|
+| :heavy_check_mark: | Random Forest    | augmented | 300             | 3                | -           | [done](Train_Run_DL_Models_CNN_moreData.ipyn)|
+| :heavy_check_mark: | Neural Networks  | original  | 300             | 3                | -           | [done](Train_Run_DL_Models.ipynb)|
+| :heavy_check_mark: | Neural Networks  | augmented | 300             | 3                | -           | [done](Train_Run_DL_Models_moreData.ipynb)|
+| :heavy_check_mark: | CNN              | original  | 300             | 3                | 5           | [done](Train_Run_DL_Models_CNN_originalData.ipynb)|
+| :heavy_check_mark: | CNN              | augmented | 300             | 3                | 5           | [done](Train_Run_DL_Models_CNN_moreData.ipynb)|
+| :white_check_mark: | CNN              | original  | 300             | 3                | 10          | [running](Train_Run_DL_Models_CNN_originalData_10.ipynb)|
+| :white_check_mark: | CNN              | augmented | 300             | 3                | 10          | [running](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
+| :white_check_mark: | CNN              | original  | 300             | 3                | 20          | [running](Train_Run_DL_Models_CNN_originalData_20.ipynb)|
+| :white_check_mark: | CNN              | augmented | 300             | 3                | 20          | [running](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
+
 
 ## Data:
 * training data: https://data.matr.io/4/
