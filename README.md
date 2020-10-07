@@ -20,8 +20,8 @@
 | :heavy_check_mark: | Random Forest    | augmented | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_CNN_moreData.ipyn)|
 | :heavy_check_mark: | Neural Networks  | augmented | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_moreData.ipynb)|
 | :heavy_check_mark: | CNN              | augmented | 300             | 3                | 5           | No | [done](Train_Run_DL_Models_CNN_moreData.ipynb)|
-| :white_check_mark: | CNN              | augmented | 300             | 3                | 10          | No | [running](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
-| :white_check_mark: | CNN              | augmented | 300             | 3                | 20          | No | [running](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
+| :x: | CNN              | augmented | 300             | 3                | 10          | No | [stopped](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
+| :x: | CNN              | augmented | 300             | 3                | 20          | No | [stopped](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
 
 
 ## Data:
