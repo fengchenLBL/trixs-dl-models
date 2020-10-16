@@ -19,15 +19,9 @@
 | :heavy_check_mark: | CNN              | original  | 300             | 3                | 20          | No | [done](Train_Run_DL_Models_CNN_originalData_20.ipynb)|
 | :heavy_check_mark: | Random Forest    | augmented | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_CNN_moreData.ipyn)|
 | :heavy_check_mark: | Neural Networks  | augmented | 300             | 3                | -           | Yes | [done](Train_Run_DL_Models_moreData.ipynb)|
-<<<<<<< HEAD
 | :heavy_check_mark: | CNN              | augmented | 300             | 3                | 5           | No | [done](Train_Run_DL_Models_CNN_moreData_5.ipynb)|
 | :heavy_check_mark: | CNN              | augmented | 300             | 3                | 10          | No | [done](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
 | :heavy_check_mark: | CNN              | augmented | 300             | 3                | 20          | No | [done](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
-=======
-| :heavy_check_mark: | CNN              | augmented | 300             | 3                | 5           | No | [done](Train_Run_DL_Models_CNN_moreData.ipynb)|
-| :x: | CNN              | augmented | 300             | 3                | 10          | No | [stopped](Train_Run_DL_Models_CNN_moreData_10.ipynb)|
-| :x: | CNN              | augmented | 300             | 3                | 20          | No | [stopped](Train_Run_DL_Models_CNN_moreData_20.ipynb)|
->>>>>>> ea102ea7ad29becbcf0740774cffba1a32b7b48d
 
 
 ## Data:
