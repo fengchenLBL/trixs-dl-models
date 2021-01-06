@@ -5,8 +5,8 @@
 * Current version: DL vs RF on pointwise spectra data
   * [Summary.ipynb](Summary.ipynb)
   * New version with P-Value included
-    * [Neural Networks with Data Augmentation 1](Train_Run_DL_Models_moreData_P.ipynb)
-    * [Neural Networks with Data Augmentation 2](Train_Run_DL_Models_moreData_P2.ipynb)
+    * [Neural Networks with Data Augmentation 1: split first](Train_Run_DL_Models_moreData_P.ipynb)
+    * [Neural Networks with Data Augmentation 2: split later](Train_Run_DL_Models_moreData_P2.ipynb)
     
 * All scenarios:
   
