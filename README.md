@@ -4,6 +4,10 @@
    * [Random forest machine learning models for interpretable X-ray absorption near-edge structure spectrum-property relationships](https://www.nature.com/articles/s41524-020-00376-6)
 * Current version: DL vs RF on pointwise spectra data
   * [Summary.ipynb](Summary.ipynb)
+  * New version with P-Value included
+    * [Neural Networks with Data Augmentation 1](Train_Run_DL_Models_moreData_P.ipynb)
+    * [Neural Networks with Data Augmentation 2](Train_Run_DL_Models_moreData_P2.ipynb)
+    
 * All scenarios:
   
 | Status                   | Model      | Data      | Iteration/Epoch | Cross-Validation | Kernel-Size | Feature Importance | Notebook | Performance Bader | Performance MD | Performance All |
