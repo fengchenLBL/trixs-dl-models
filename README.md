@@ -8,7 +8,9 @@
   * CNN model:
     * trained with original data : [Train_Run_DL_Models_CNN_originalData.ipynb](Train_Run_DL_Models_CNN_originalData.ipynb)
     * data augmentation (average pooling): [Train_Run_DL_Models_CNN_moreData.ipynb](Train_Run_DL_Models_CNN_moreData.ipynb)
+
 * Data:
+
 | Coordination | Bader      | Mean Distance |
 | ------------ | -----------| ------------- |
 | ![img](figures_feffnorm/feff_moreData_c_augmentation.png) | ![img](figures_feffnorm/feff_moreData_b_augmentation.png) | ![img](figures_feffnorm/feff_moreData_md_augmentation.png) |
